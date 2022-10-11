@@ -60,6 +60,10 @@ public class CacheDemo {
         User{userId=2, username='张三'}
         ----------------------------------- */
 
+        /**
+         * expireAfterWrite：只针对写请求
+         */
+
     }
 
     /**

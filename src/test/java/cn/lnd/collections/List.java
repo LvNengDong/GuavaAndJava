@@ -6,10 +6,7 @@ import com.google.common.collect.Ordering;
 import org.junit.Test;
 
 import javax.annotation.Nullable;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.ListIterator;
+import java.util.*;
 
 /**
  * @Author lnd
